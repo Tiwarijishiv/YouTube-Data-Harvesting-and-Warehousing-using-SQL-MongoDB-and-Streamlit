@@ -94,3 +94,12 @@
 # Result :
 
    - This project focuses on harvesting YouTube data using the YouTube API, storing it in MongoDB, converting to SQL for analysis. Utilizes Streamlit, Python, and various methods for ETL. Expertise includes Python, MongoDB, SQL, API integration, and data management tools . This project maily reduces 80% percentage of manually data processing and data storing work effectively.
+
+#  # Project Homepage Overview:
+
+![Uploading Screenshot 2024-03-02 at 11.25.11 AM.png…]()
+
+
+
+
+
