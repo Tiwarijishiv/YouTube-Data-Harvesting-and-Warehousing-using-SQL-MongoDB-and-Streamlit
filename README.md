@@ -17,7 +17,7 @@ NAME : SHIVAM TIWARI
 
 BATCH: DW71DW72
 
-DOMAIN : Fintech
+DOMAIN : Social Media
 
 Linked in URL : www.linkedin.com/in/shivam-tiwari-771038264
 
